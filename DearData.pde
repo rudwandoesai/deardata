@@ -1,5 +1,5 @@
 // Dear Data 100 - My Steps
-// 100 days of steps (25 Jul - 1 Nov 2026), taken from my iPhone Health app.
+// 100 days of steps (25 Jul - 1 Nov 2026). This was  taken from my iPhone Health app 
 // Each day is one footprint, walking across the page in rows of 10:
 //   size   = how many steps I did that day
 //   colour = how active the day was
