@@ -1,5 +1,5 @@
 // One day of data. Every row of data.csv becomes one Day object,
-// and each Day knows how to draw itself as a footprint.
+// and each Day knows how to draw itself as a footprint. Declearation of fair ai use to help sort data
 class Day {
   int number;      // 1 to 100
   String date;     // e.g. "25 Jul"
